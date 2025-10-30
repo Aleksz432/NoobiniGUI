@@ -1,4 +1,6 @@
--- NoobiniUI Library
+-- NoobiniGUI Library v1.0
+-- GitHub: https://github.com/Aleksz432/NoobiniGUI
+
 local NoobiniUI = {}
 
 -- Случайные имена для элементов GUI
